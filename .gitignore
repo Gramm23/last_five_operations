@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+*
+venv/
+.venv/
+.idea/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+*.iml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/pycharm_helpers/
+/.history/
+
